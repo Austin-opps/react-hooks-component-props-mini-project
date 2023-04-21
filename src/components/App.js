@@ -1,8 +1,8 @@
 import React from "react";
 import blogData from "../data/blog";
 import Header from "./header";
-import About from "./About";
-import ArticleList from "./articleList";
+import About from "./about";
+import ArticleList from "./article.list";
 
 function App() {
   return (
